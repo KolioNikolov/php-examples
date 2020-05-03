@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="Php examples">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Php examples" autoUploadExternalChanges="true">
     <serverData>
+      <paths name="PHP Example">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="Php examples">
         <serverdata>
           <mappings>
